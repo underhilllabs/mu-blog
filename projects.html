@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="projects-page">
+
+  <h3 id="page-title">Projects</h3>
+  <div id="projects" class="list-unstyled">
+  {% for project in site.data.projects %}
+    <div class="project">
+      <h2>{{project.title}}</h2>
+      <div class="project-desc">{{project.brief-description}}</div>
+      {% if project.image-url %}
+        <div class="project-image"><img src="{{ project.image-url }}"></div>
+      {% endif %}
+      {% if project.project-url %}
+        <div>view project: <a href="{{ project.project-url }}">{{ project.title }}</a></div>
+      {% endif %}
+      view source code: <a href="{{ project.code-url }}">{{ project.title }}</a>
+    </div>
+  {% endfor %}
+  </div>
+
+</div>

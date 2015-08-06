@@ -1,0 +1,18 @@
+- title: Lursa Bot
+  brief-description: a Klingon Telegram Bot written in Elixir that runs on a Raspberry Pi.
+  category: [bot, raspberry pi, elixir]
+  project-url: http://telegram.me/lursa_bot
+  code-url: http://github.com/underhilllabs/lursa-pi-bot/
+  image-url: img/projects/lursa-project2.png
+
+- title: Bkmark.me
+  brief-description: a Social Bookmarking Site
+  category: website
+  project-url: http://github.com/underhilllabs/Bookies/
+  code-url: http://github.com/underhilllabs/Bookies/
+
+- title: Knitting Stash
+  brief-description: a Knitting App for Android
+  category: mobile app
+  code-url: http://github.com/underhilllabs/KnittingStash/
+

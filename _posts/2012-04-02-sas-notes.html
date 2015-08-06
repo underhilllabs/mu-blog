@@ -1,0 +1,122 @@
+---
+layout: post
+title: Notes on SAS
+tags: sas data 
+category: Data Analysis
+description: Notes from my Regression Analysis class on using SAS for data analysis.
+---
+
+<h2>The Data Step</h2>
+<h3>Subsetting IF</h3>
+In a Data Step you can exclude some observations from the dataset with an if statement.
+{% highlight s %}
+data tornados_1980s;
+  infile FileName;
+  input year city damages;
+  * this limits input data to 1980s data;
+  if 1980 <= year <= 1989;
+run;
+{% endhighlight %}
+
+<li> IF .. IN statement
+{% highlight s %}
+if year in (1980, 1981, 1982);
+{% endhighlight %}
+
+<li> AND, OR 
+{% highlight s %}
+if year = '1980' and city = 'Baltimore';
+{% endhighlight %} 
+
+
+<h3>infile 'filename'</h3>
+In the data step, import data from a file with the infile command.
+{% highlight s %}
+data tornados;
+  infile 'tornados.dat';
+  input year city cost;
+run;
+{% endhighlight %}
+
+<h3>Set </h3>
+<li> Use the set command to create a new data set from an already created
+  set.
+The following creates a dataset of 1980s tornado data from the larger
+set of tornado data.
+{% highlight s %}
+data tornados_1980s;
+  set tornados;
+  if 1980 <= year <= 1989;
+run;
+{% endhighlight %}
+
+<h2>The PROC Step</h2>
+<h3>PROC SORT</h3>
+<li> The sort procedure, sorts data. You can sort by multiple fields.
+<li> Also you can print by a field.
+{% highlight s %}
+proc sort data=tornados;
+  by year city;
+proc print data=tornados;
+  by year;
+run;
+{% endhighlight %}
+
+<h3>PROC Univariate</h3>
+PROC Univariate generates descriptive statistics
+{% highlight s %}
+proc univariate data=tornados;
+  histogram year;
+run;
+{% endhighlight %}
+
+<h3>PROC means</h3>
+Use proc means when you are only interested in basic descriptive statistics.
+<h3>PROC freq</h3>
+<li> generates tables for data in categories.
+<h3>PROC gplot</h3>
+{% highlight s %}
+proc gplot data=tornados;
+  plot year*cost;
+  title 'Year by Cost tornados';
+run;
+{% endhighlight %}
+
+<h3>PROC corr</h3>
+<h4>compute the correlation</h4>
+{% highlight s %}
+proc corr data=grades;
+  var exam1 exam2 hwscore;
+run;
+{% endhighlight %}
+
+<h3>PROC reg</h3>
+<li> p: prints obs, predicted, residuals
+<li> r: same as p, plus more
+<li> clm: 95% conf interval for mean of each obs
+<li> cli: 95% prediction intervals.
+{% highlight s %}
+proc reg data=grades;
+  model final=exam1 hwscore / p r cli clm;
+  plot final*hwscore;
+run;
+{% endhighlight %}
+
+<h2>Multiple Regression Analysis</h2>
+<h3>Variable Selection</h3>
+SAS has several methods for selecting variables
+
+{% highlight s %}
+proc reg data=cdi;
+  model y = x1-x8 /selection=rsquare best=1;
+  model y = x1-x8 /selection=adjrsq best=5;
+  model y = x1-x8 /selection=cp best=10;
+  model y = x1-x8 /selection=forward slentry=0.10;
+  model y = x1-x8 /selection=stepwise slentry=0.10 slstay=0.10;
+  model y = x1-x8 /selection=backward slstay=0.10;
+run;
+{% endhighlight %}
+
+additional pages to try:
+<a href=http://www.ats.ucla.edu/stat/sas/modules/graph.htm>more sas</a>
+

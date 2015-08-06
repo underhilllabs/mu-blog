@@ -1,0 +1,47 @@
+---
+layout: post
+title: AWK One-liners
+tags: awk commandline
+category: Systems Administration
+---
+
+I was printing out the sizes of different databases and trying to sum them.  The command I was using was:
+
+{% highlight bash %}
+$ du -s /var/lib/mysql/* | sort n
+...
+6040    u_labs2
+7632    dnvtech3
+7828    courtwatch1
+19664   statusnet2
+23044   drupaldbc1
+84896   managingnews0
+248056  ibdata1
+{% endhighlight %}
+
+This prints out a two column list of files sizes and file names.  I wanted to turn this into a csv.  What is the best way to do this?  AWK of course.
+
+<h2>AWK to the Rescue</h2>
+This print just the file sizes:
+{% highlight bash %}
+$ du -s /var/lib/mysql/* | sort n | awk '{print $1}'
+{% endhighlight %}
+
+This prints the file name first, comma, file size:
+{% highlight bash %}
+$ du -s /var/lib/mysql/* | sort n | awk '{print $2 ", " $1}'
+
+u_labs2, 6040
+dnvtech3, 7632
+courtwatch1, 7828
+statusnet1, 19664
+drupaldbc2, 23044
+managingnews0, 84896
+ibdata1, 248056
+{% endhighlight %}
+
+You can either cut and paste the output into a spread sheet or redirect it into a csv like so:
+
+{% highlight bash %}
+$ du -s /var/lib/mysql/* | sort n | awk '{print $2 ", " $1}' > db-sizes.csv
+{% endhighlight %}

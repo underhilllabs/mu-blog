@@ -1,0 +1,141 @@
+--- 
+name: up-home-setting-up-lending-library-with
+layout: post
+title: Setting Up a Web Enabled Lending Library
+tags: python librarything drupal
+category: Python
+---
+<div id="content"><div id="outline-container-1" class="outline-2">
+<h3 id="sec-1">Setting Up a Web Enabled Lending Library </h3>
+
+
+
+
+
+<div id="outline-container-1.1"
+     class="outline-3"><div class="outline-text-3" id="text-1.1">
+
+
+<p>
+I started cataloging books for a small community center's lending library at librarything.com.  Librarything.com is a
+  great web site
+
+that I highly recommend.  If most of your books have ISBNs and you can
+borrow someone's barcode scanner, cataloging books at Librarything is
+a snap: on the "add books page" you scan a books ISBN and all of its
+information (Title, Author, book cover) will be added by Librarything
+for you.  Of course if you don't have a bar code scanner or there is
+no ISBN, you simply type in part of the title or author and select the
+book from a list of possible matches, this is a bit slower, but
+perfectly adequate if you are inputting a smaller library.  
+</p><p>Once all of the books are added, the social networking goodness
+begins!  You're library has its own mini-site at Librarything, with a
+publicly available catalog: <a href="http://librarything.com/catalog/buildupbooks">Build Up Books catalog</a> and profile:
+<a href="http://librarything.com/profile/buildupbooks">Build Up Books profile</a>. So for a community center, you can send out the URL, and anyone can search the catalog for books they find of interest.  
+</p><p>The one problem with this system, is there isn't a robust system for
+checking out books.  Some libraries have adapted an informal system of
+tagging books as "checked out" and in the private comments (only
+visible to the administrator) added the borrowers contact
+information.  This is somewhat acceptable, but first: you would have
+to give any volunteers access to all of your Librarything account's
+permissions (you get all or nothing as far admin rights goes on
+Librarything).  Second there is no way to tell when the book was
+checked out, when it is due back, and also no way to sort by which
+books are currently overdue.  So I thought I would look into importing
+the library, once cataloged, into a drupal web site.  
+</p></div>
+</div>
+<div id="outline-container-1.2" class="outline-3"><h3 id="sec-1.2">Exporting Library from Librarything </h3><div class="outline-text-3" id="text-1.2">
+
+<p>Librarything has excellent importing and exporting facilities.  To
+export, sign in to your account and then go to
+<a href="http://librarything.com/more/import">http://librarything.com/more/import</a>.  On that page there are links for
+downloading your catalog as either a comma separated csv file or a tab
+delimited text file. 
+</p></div>
+</div>
+<div id="outline-container-1.3" class="outline-3"><h3 id="sec-1.3">Downloading User Uploaded Book Covers </h3><div class="outline-text-3" id="text-1.3">
+
+<p>Librarything has over 1,000,000 user uploaded book covers, and it
+makes them available for free.  You need to a developer's key to
+access them and there are some restrictions: you can only download
+1000 per day and one per second. So with these understandable
+restrictions, I decided it would be best to download the book covers
+and store them locally.  So yesterday I wrote a python script to
+download all of the book covers for our library.
+</p></div>
+</div>
+<div id="outline-container-1.4" class="outline-3"><h3 id="sec-1.4">The Python Script </h3><div class="outline-text-3" id="text-1.4">
+
+<p>I will add a link at the bottom to the script on my
+<a href="http://github.com/underhilllabs">Github Repository</a>.  So the script I wrote searches through a
+librarything csv file, finds all of the ISBNs and downloads the book
+covers from <a href="http://librarything.com">Librarything</a>.  
+</p>
+
+
+{% highlight python %}
+import re, urllib, csv,time
+
+CSV_FILE ='~/Downloads/LibraryThing_export.csv'
+IMG_DIR ='~/img/'
+DEV_KEY = 'YOUR_LIBRARYTHING_DEV_KEY'
+IMG_URL = "http://covers.librarything.com/devkey/" + DEV_KEY + "/large/isbn/"
+{% endhighlight %}
+
+
+<p>I use 4 python libraries.  
+</p><ul>
+  <li><b>Re</b>: for regular expressions to search for isbns.</li>
+  <li><b>urllib</b>: for downloading the Book Cover from Librarything</li>
+  <li><b>csv</b>: for creating a map data structure from a parsed csv file.</li>
+  <li><b>time</b>: for limiting the downloads to one per second.</li>
+</ul>
+<p>Also I add a couple of variables.  The important one to change is
+DEV_KEY which contains your librarything developers key.  Also make
+sure the CSV_FILE points at your downloaded CSV_FILE and the IMG_DIR
+exists.  Finally IMG_URL points to the web service on librarything
+where you can download user submitted book covers, all you need to do
+is slap an ISBN on the end of that URL and the URL will return either
+a book cover, or a clear 1x1 gif if they do not have that cover.  
+</p>
+
+
+{% highlight python %}
+# read in the Librarything Export File
+lt_dict = csv.DictReader(open(CSV_FILE))
+#loop through the rows of the dictionary
+for row in lt_dict:
+    # grab the ISBN dictionary field
+    mystr = row["'ISBN'"]
+    # search for a matching ISBN
+    mymatch = re.match(r"\[(\d+)\]",mystr)
+    # if no match, print the title to STDOUT
+    if mymatch is None:
+        print "blank isbn for: %s" % row["'TITLE'"]
+    else:
+        # grab the matching string, this is our ISBN!
+        isbn = mymatch.group(1)
+        # build the web service request URL
+        myurl = IMG_URL + isbn
+        # where we will store the downloaded Book cover image
+        myfile = "%slarge_%s" % (IMG_DIR,isbn)
+        # urlretrieve downloads the image and stores it locally
+        urllib.urlretrieve(myurl,myfile)
+        print "myurl: %s, myfile: %s" % (myurl,myfile)
+        # sleep for 2 seconds
+        time.sleep(2)
+{% endhighlight %}
+
+
+
+<p>The hard work is done by <a href="http://docs.python.org/library/csv.html#csv.DictReader">csv.DictReader</a> and <a href="http://docs.python.org/release/2.5.2/lib/module-urllib.html">urllib.urlretrieve</a>.
+DictReader takes a csv file, parses the first line of the file for
+field names and creates a dictionary data type, so you can loop
+through the rows and have access to the fields by name.  Urlretrieve,
+takes a URL and an optional file name and it grabs the file at the URL
+and stores it locally as the filename you provided.  
+</p><p>In a later blog post I will describe the Drupal end of this project:
+creating a book CCK content type, importing data into Drupal custom
+content types, and setting up the check out process.
+</p></div></div></div></div><div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/7035860407900002000-2092323799751063501?l=denverdroid.blogspot.com' alt='' /></div>
