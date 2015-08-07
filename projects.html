@@ -7,7 +7,7 @@ layout: default
   <h3 id="page-title">Projects</h3>
   <div id="projects" class="list-unstyled">
   {% for project in site.data.projects %}
-    <div class="project">
+    <div class="project well well-lg">
       <h2>{{project.title}}</h2>
       <div class="project-desc">{{project.brief-description}}</div>
       {% if project.image-url %}

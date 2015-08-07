@@ -1,5 +1,8 @@
 - title: Lursa Bot
-  brief-description: a Klingon Telegram Bot written in Elixir that runs on a Raspberry Pi.
+  brief-description: >
+    A Klingon Telegram Bot written in Elixir that runs on a Raspberry Pi.
+    The telegram bot can tell you infomation about the server it's running on
+    or return a random Klingon insult.
   category: [bot, raspberry pi, elixir]
   project-url: http://telegram.me/lursa_bot
   code-url: http://github.com/underhilllabs/lursa-pi-bot/
@@ -7,12 +10,12 @@
 
 - title: Bkmark.me
   brief-description: a Social Bookmarking Site
-  category: website
+  category: [website, ruby]
   project-url: http://github.com/underhilllabs/Bookies/
   code-url: http://github.com/underhilllabs/Bookies/
 
 - title: Knitting Stash
   brief-description: a Knitting App for Android
-  category: mobile app
-  code-url: http://github.com/underhilllabs/KnittingStash/
+  category: [mobile, android]
+  code-url: http://github.com/underhilllabs/knitting-stash/
 
