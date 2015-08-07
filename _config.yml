@@ -7,6 +7,16 @@ url: "http://majorursa.net" # the base hostname & protocol for your site
 twitter_username: bartofdenver
 github_username:  underhilllabs
 
+collections:
+  cheatsheets:
+    output: true
+    output_ext: .html
+    permalink: /cheatsheets/:path/
+  book_reviews:
+    output: true
+    output_ext: .html
+    permalink: /bookreviews/:path/
+
 # Build settings
 markdown: kramdown
 
@@ -14,6 +24,3 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-collections:
-  notes:
-    output: true

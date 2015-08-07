@@ -2,7 +2,7 @@
 layout: page
 title: Emacs Cheatsheet
 category: emacs
-tags: notes, emacs
+tags: [notes, emacs]
 ---
 
 <p><img src="http://farm1.static.flickr.com/130/330223208_508744ea49_m.jpg"  alt="http://farm1.static.flickr.com/130/330223208_508744ea49_m.jpg" />
