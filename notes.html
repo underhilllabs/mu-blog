@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h2>Notes</h2>
+  <ul id="archive" class="list-unstyled">
+  {{site.notes}}
+  {% for note in site.notes %}
+    {{note}}
+    <h2>Note!!</h2>
+    <li class="{{ note.category }}">
+    {% if note.external_url == nil %}
+      <a href="{{ note.url }}">{{ note.title }}</a>
+    {% else %}
+      <a href="{{ note.external_url }}">{{ note.title }}</a>
+    {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+
+</div>

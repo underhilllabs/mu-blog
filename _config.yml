@@ -9,3 +9,11 @@ github_username:  underhilllabs
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+collections:
+  notes:
+    output: true
