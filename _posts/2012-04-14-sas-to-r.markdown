@@ -14,7 +14,7 @@ it in R. (And actually it looks better in R too.)
 
 
 
-{% highlight r %}
+```r
 # read in data from file 
 gpa.data <- read.table("GPA.txt");
 # create multiple linear regression model
@@ -33,7 +33,7 @@ plot(gpa.yhat,gpa.resid, ylab="Residuals", xlab="Predicted Values of Cum GPA", m
 abline(0,0)
 # write plot to file
 #dev.off()
-{% endhighlight %}
+```
 
 
 
@@ -47,13 +47,13 @@ abline(0,0)
 
 Here is R's ANOVA command. Run it on the regression model gpa.fit.
 
-``` r
+```r
 anova(gpa.fit)
 ```
 
 Here is the output of the ANOVA command.
 
-``` r
+```r
 Analysis of Variance Table
 
 Response: V4
@@ -77,14 +77,14 @@ not very significant; the regression model should be tested without them.
 
 ### Summary of Linear Regression Model
 
-{% highlight r %}
+```r
 summary(gpa.fit)
-{% endhighlight %}
+```
 
 
 
 
-{% highlight r %}
+```r
 Call:
 lm(formula = V4 ~ V1 + V2 + V3 + V5 + V6 + V7 + V8, data = gpa.data)
 
@@ -109,5 +109,5 @@ Residual standard error: 0.5505 on 492 degrees of freedom
 Multiple R-squared: 0.2112, Adjusted R-squared:   0.2 
 F-statistic: 18.82 on 7 and 492 DF,  p-value: < 2.2e-16
 
-{% endhighlight %}
+```
 

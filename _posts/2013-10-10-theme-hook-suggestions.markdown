@@ -12,26 +12,28 @@ The following base templates are part of Bartik: **comment.tpl.php**, **comment-
 
 #### find all of the templates in your site install
 from within your site's root directory run one of the following commands and optionally redirect the output (it's long) into a file.
-```
+
+```bash
 find . -name '*.tpl.php' -print
 ```
 
 or if you're using zsh: 
-```
+
+```bash
 ls **/*.tpl.php
 ```
 
 ### Copy Base Template into your theme or module and customize it
 Decide what template you'd like to override and copy it into your module or theme folder.
 
-```
+```bash
 cp modules/taxonomy/taxonomy-term.tpl.php sites/all/modules/custom/amazing-mod/theme/taxonomy-term.tpl.php
 ```
 
 ### Rename file to a specific taxonomy vocabulary or term id
 The pattern for overriding a taxonomy template is `taxonomy-term--[vocabulary-machine-name|tid].tpl.php`. In our case we are going to override the template for the **education_session**, so we rename the template thus:
 
-```
+```bash
 cd  sites/all/modules/custom/amaaazing-mod/theme/
 mv taxonomy-term.tpl.php taxonomy-term--education-session.tpl.php
 ```
@@ -46,7 +48,8 @@ For instance, the taxonomy term *education_session* would become *education-sess
 `taxonomy-term--education-session.tpl.php`
 
 ### If you cannot see changes: clear caches
-```
+
+```bash
 drush cc all
 ```
 
@@ -57,7 +60,8 @@ drush cc all
 
 Implement hook_theme() and define your template file.
 
-```
+``` php
+<?php
 /**
  * Implements hook_theme().
  */
@@ -69,9 +73,12 @@ function amazing_mod_hook_theme() {
      ),
   );
 }
+?>
 ```
+
 and create the file
-```
+
+```bash
 vim theme/amazing-item.tpl.php
 ```
 

@@ -10,6 +10,7 @@ Just a quick post to write up an bash alias I just created to list the sites ena
 I often need to look up the list of sites enabled on a web server and also the document roots of each of these sites. In the past this meant loading the Apache configuration file into emacs or vim and searching for the site I was looking for.  Today I decided to create an alias for this task.  Here is the original combination of grep commands.
 
 ## Grep Command
+
 ```bash
 grep ''^ServerName" -A 3 /etc/apache2/sites-available/default | \
    grep "^ServerName\|^DocumentRoot\|^--"
@@ -38,18 +39,21 @@ alias show-sites='grep "^ServerName" -A 3 /etc/apache2/sites-available/default |
 ```
 
 ## Reload Your Bash Configuration
+
 ```bash
 . ~/.bashrc
 ```
 
 ## Show All Current Aliases
 Type alias at the command line to view all of the currently defined aliases.
-```
+
+```bash
 $ alias
 ```
 
 Bash prints out all of your aliases, like so:
-```
+
+```bash
 alias ducks='du -cks * |sort -rn |head -11'
 alias gb='git branch'
 alias gba='git branch -a'

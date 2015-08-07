@@ -27,15 +27,17 @@ I start with a bash script that calls [scrot](https://github.com/dreamer/scrot),
 as a parameter to scrot.
  
 screen-upload.bash
-{% highlight bash %}
+
+```bash
 #!/bin/bash
 /usr/local/bin/scrot '%m-%d-%Y-screenshot.png' -d 5 -u -e '/home/bart/projects/screen-upload/screen-upload.py $f' 
-{% endhighlight %}
+```
 
 Next, chmod +x the bash script:
-{% highlight bash %}
+
+```bash
 chmod +x screen-upload.bash
-{% endhighlight %}
+```
 
 
 ### Scrot Options explained
@@ -67,7 +69,7 @@ In version 2 of screen-upload, I will rewrite the authentication to use Oauth2, 
 the authentication is more secure, for the alpha version, I am just
 passing in the users email and password into the __gd_client__ object.
 
-{% highlight bash %}
+```python
 import gdata.photos.service
 import gdata.media
 import gdata.geo
@@ -83,8 +85,7 @@ print 'uploading',  filename
 album_url = '/data/feed/api/user/%s/albumid/%s' % (username, album_id)
 photo = gd_client.InsertPhotoSimple(album_url, 'New Photo', 
                'Uploaded using the API', filename, content_type='image/png')
-
-{% endhighlight %}
+```
 
 
 ## Copy URL into the Clipboard
@@ -93,27 +94,26 @@ Copying the URL to the clipboard is easy as long as you are not too
 concerned with cross-platform compatibility. I used the gtk module to
 gain access to the clipboard on Linux systems.
 
-{% highlight bash %}
+```python
 from gtk import Clipboard
 
 def clip_store(pic_url):
     cb = Clipboard()
     cb.set_text(pic_url)
     cb.store()
-{% endhighlight %}
+```
 
 This can be made more cross-platform with a series of try statements
 that load platform specific libraries. 
 
-{% highlight bash %}
+```python
 try:
   import win32
 
 ...
 try: 
   from gtk import Clipboard
-
-{% endhighlight %}
+```
 
 
 
@@ -127,9 +127,9 @@ Long story short: I created a shortcut under "Custom Shortcuts".  I
 called it "Take Screenshot" and I named the script "screen-upload".
 Then I created a symbolic link to the script in /usr/local/bin.
 
-{% highlight bash %}
+```bash
 ln -s ~/projects/screen-upload/screen-upload.bash /usr/local/bin/screen-upload. 
-{% endhighlight %}
+```
 
 This did the trick, now when I press the PrtSc button, a screenshot is
 taken of the current window, and its uploaded to Picasa and the URL of

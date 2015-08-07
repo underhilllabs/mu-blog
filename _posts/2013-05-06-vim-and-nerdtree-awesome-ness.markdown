@@ -17,15 +17,18 @@ Wow, this [plugin](https://github.com/scrooloose/nerdtree) is so amazing. It is 
 
 
 If you have pathogen installed, then installing it is as simple as:
+
 ``` bash
 cd ~/.vim/bundles/
 git clone git://github.com/scrooloose/nerdtree.git
 ```
 
 Next, I added the following to my ~/.vimrc
-```
+
+```bash
 map <leader>nt :execute 'NERDTreeToggle ' . getcwd()<CR>
 ```
+
 My leader key is comma, so once the previous code is added to my .vimrc, I can type `,nt` in normal mode, and NERDTree's file browser pops open on the side and displays the current working directory. Type `C-w h` (Control-w h) to send focus to the file browser and hit `<enter>` over a directory to expand it, or press `<enter>` over a file name to open it in the main window.
 
 Next to close the file browser type `,nt` again and it disappears. 
@@ -33,7 +36,8 @@ Next to close the file browser type `,nt` again and it disappears.
 ## Use NERDTree to rename and create new files.
 
 I was satisfied with the above commands for awhile, it was very convenient, but then I watched screencasts of people creating files eaily in Sublime and Textmate and lo I was unsatisfied. But then one day as I was in the file browser I happened upon the "m" or menu command and it was a godsend! Typing `m` while on a file will bring up a menu of options:
-```
+
+```bash
 NERDTree Menu. Use j/k/enter and the shortcuts indicated
 ==========================================================
 > (a)dd a childnode
@@ -50,6 +54,7 @@ NERDTree Menu. Use j/k/enter and the shortcuts indicated
 4. type in it's new name, press `<enter>` and the file is renamed.
 
 ### Create a new file
+
 1. move cursor to a filename in the file browser
 2. press `m` while on a directory.
 3. type `a` for add a child node
@@ -57,6 +62,7 @@ NERDTree Menu. Use j/k/enter and the shortcuts indicated
 5. arrow down to the new file name and select it to start editing it.
 
 ### Delete a file
+
 1. move cursor to a filename in the file browser
 2. press `m` to bring up the menu.
 3. press `d` to delete the file.

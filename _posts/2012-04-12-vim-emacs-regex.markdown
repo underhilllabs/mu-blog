@@ -15,12 +15,14 @@ So, I was trying to convert an orgmode file to html. There is an orgmode-export-
 ```
 
 I wanted to simply transform this into:
+
 ```
 <h3>Use the sort function</h3>
 ```
 
 ## Vim Regexp
 I was finally able to match the headline in vim with the following regular expression: 
+
 ```
 \*\*\* \(\(w*\).*\)
 ```
@@ -32,18 +34,18 @@ I was finally able to match the headline in vim with the following regular expre
 
 ### Vim Substitution Expression
 
-{% highlight bash %}
+```bash
 %s/\*\*\* \(\(w*\).*\)/<h3&gt;\1<\/h3&gt;/
-{% endhighlight %}
+```
 * The % matches the entire file
 * The \1 matches the first matching group in the search string
 That is, \1 will match everything on the line after the 3 literal asterisks.
 
 ## Testing Matching String
 Its easy to test a regular expression in vim.  While in command mode (hit Esc if you are in input mode), type a / and then type your regular expression and then press "return", like so:
-{% highlight bash %}
+```bash
 /\*\*\* [RETURN]
-{% endhighlight %}
+```
 
 Your matches will be highlighted.  Click 'n' to jump to the next match.
 
