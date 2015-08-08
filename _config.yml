@@ -8,14 +8,12 @@ twitter_username: bartofdenver
 github_username:  underhilllabs
 
 collections:
+  reviews:
+    output: true
   cheatsheets:
     output: true
-    output_ext: .html
-    permalink: /cheatsheets/:path/
   book_reviews:
     output: true
-    output_ext: .html
-    permalink: /bookreviews/:path/
 
 # Build settings
 markdown: kramdown
