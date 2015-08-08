@@ -6,16 +6,9 @@ layout: default
 
   <h2>Notes</h2>
   <ul id="archive" class="list-unstyled">
-  {{site.cheatsheets}}
-  {% for note in site.cheatsheets %}
-    {{note}}
-    <h2>Note!!</h2>
-    <li class="{{ note.category }}">
-    {% if note.external_url == nil %}
-      <a href="{{ note.url }}">{{ note.title }}</a>
-    {% else %}
-      <a href="{{ note.external_url }}">{{ note.title }}</a>
-    {% endif %}
+  {% for cheatsheet in site.cheatsheets %}
+    <li>
+      <a href="{{ cheatsheet.url }}">{{ cheatsheet.title }}</a>
     </li>
   {% endfor %}
   </ul>
