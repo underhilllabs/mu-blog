@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h2>Reviews</h2>
+  <ul id="archive" class="list-unstyled">
+  {% for review in site.reviews %}
+    <li >
+      <a href="{{ review.url }}">{{ review.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+
+</div>
