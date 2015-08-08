@@ -1,8 +1,10 @@
---- 
+---
 layout: page
-title: Book Review Ubik by Philip K. Dick
+title: "Book Review: Ubik by Philip K. Dick"
 category: scifi
 tags: [scifi, pkd, mindfuck]
+published: true
+permalink: bookreviews/ubik/
 ---
 
 <img src="/img/books/ubik.jpg" class="book">
