@@ -5,7 +5,7 @@
     or return a random Klingon insult.
   category: [bot, raspberry pi, elixir]
   project-url: http://telegram.me/lursa_bot
-  code-url: http://github.com/underhilllabs/lursa-pi-bot/
+  code-url: http://github.com/underhilllabs/lursa_pi_bot/
   image-url: img/projects/lursa-project2.png
 
 - title: Bkmark.me
