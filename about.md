@@ -10,13 +10,11 @@ This website is part blog, part grimoire of various computer incantations.
 
 Here are some top 10 lists and, of course, a few cat pics.
 
-
-
 ## my favorite novels
 
+{: .clearfix}
 <img src="/img/books/dunces.jpg" width="190" class="books"> <img src="/img/books/our_lady.jpg" class="books"><img src="/img/books/HydrogenSonata.jpg" class="books">
 
-{: .clear}
 1. Bleak House by Charles Dickens
 3. Ubik by PK Dick
 4. A Confederacy of Dunces by John Kennedy Toole
@@ -29,11 +27,6 @@ Here are some top 10 lists and, of course, a few cat pics.
 10. Cat's Cradle by Kurt Vonnegut
 11. The City & the City by China Miéville
 (must stop…)
-
-
-
-
--------
 
 
 ### And now: moar cat!!
