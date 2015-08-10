@@ -13,10 +13,19 @@ span#brand-title {
   font-size: 160%;
 }
 
+h2 {
+  padding-top: 0.75em;
+}
 img.book {
   float: left;
-  padding: 0 1.3em 0.5em 0;
+  margin: 0 1.3em 0.5em 0;
 }
+img.books {
+  margin: 0 1.3em 0.5em 0;
+  display: inline; 
+  float: left;
+}
+  
 .site-title {
     font-size: 26px;
     line-height: 56px;
