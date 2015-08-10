@@ -6,9 +6,9 @@ layout: default
 
   <h2>Book Reviews</h2>
   <ul id="archive" class="list-unstyled">
-  {% for book_review in site.book_reviews %}
+  {% for bookreview in site.reviews %}
     <li >
-      <a href="{{ book_review.url }}">{{ book_review.title }}</a>
+      <a href="{{ bookreview.url }}">{{ bookreview.title }}</a>
     </li>
   {% endfor %}
   </ul>
