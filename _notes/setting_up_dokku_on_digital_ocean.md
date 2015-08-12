@@ -3,6 +3,7 @@ layout: page
 title: Setting up Dokku on Digital Ocean
 category: docker
 tags: [notes, docker, dokku]
+notetype: note
 published: true
 permalink: cheatsheets/dokku-digital-ocean/
 ---

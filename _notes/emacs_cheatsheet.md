@@ -3,6 +3,7 @@ layout: page
 title: Emacs Cheatsheet
 category: emacs
 tags: [notes, emacs]
+notetype: cheatsheet
 published: true
 permalink: cheatsheets/emacs/
 ---

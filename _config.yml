@@ -10,9 +10,9 @@ github_username:  underhilllabs
 collections:
   reviews:
     output: true
-  cheatsheets:
+  notes:
     output: true
-  book_reviews:
+  bookreviews:
     output: true
 
 # Build settings

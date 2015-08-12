@@ -3,6 +3,7 @@ layout: page
 title: Tmux Notes
 category: tmux
 tags: [notes, tmux, commandline]
+notetype: cheatsheet
 published: true
 permalink: cheatsheets/tmux/
 ---

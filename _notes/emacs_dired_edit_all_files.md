@@ -3,6 +3,7 @@ layout: page
 title: Change all of the file names in a Directory with Emacs
 category: emacs
 tags: emacs
+notetype: note
 permalink: cheatsheets/emacs-edit-dir/
 ---
 

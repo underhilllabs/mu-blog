@@ -2,6 +2,7 @@
 layout: post
 title: Vim Notes
 tags: vim
+notetype: cheatsheet
 category: vim
 ---
 

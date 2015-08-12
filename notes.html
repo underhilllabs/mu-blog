@@ -4,18 +4,25 @@ layout: default
 
 <div class="home">
 
+  <h2>Cheatsheets</h2>
+  <ul id="archive" class="list-unstyled">
+  {% assign cheatsheet_notes = site.notes | where: "notetype", "cheatsheet" %}
+  {% for cheatsheet in cheatsheet_notes %}
+    <li>
+      <a href="{{ cheatsheet.url }}">{{ cheatsheet.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+
+  <hr>
+
+  {% assign note_notes = site.notes | where: "notetype", "note" %}
+
   <h2>Notes</h2>
   <ul id="archive" class="list-unstyled">
-  {{site.notes}}
-  {% for note in site.notes %}
-    {{note}}
-    <h2>Note!!</h2>
-    <li class="{{ note.category }}">
-    {% if note.external_url == nil %}
+  {% for note in note_notes %}
+    <li>
       <a href="{{ note.url }}">{{ note.title }}</a>
-    {% else %}
-      <a href="{{ note.external_url }}">{{ note.title }}</a>
-    {% endif %}
     </li>
   {% endfor %}
   </ul>
