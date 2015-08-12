@@ -45,4 +45,6 @@ All the changes you make inside the vagrant machine will be preserved and will b
 | vagrant ssh | ssh into the image|
 | vagrant halt | stop the vm|
 
-###
+## More Vagrant Documentation
+
+[Vagrantup](https://docs.vagrantup.com/v2/)
