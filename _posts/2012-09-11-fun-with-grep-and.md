@@ -23,28 +23,34 @@ grep ''^ServerName" -A 3 /etc/apache2/sites-available/default | \
 <li>-A 3
   <ul><li>Prints the 3 lines after the match.</li></ul>
 </li>
-<li>3. grep "^ServerName\|^DocumentRoot\|^--"' 
+<li>3. grep "^ServerName\|^DocumentRoot\|^--" 
   <ul><li>Prints only the lines that we are interested (ie lines that begin with ServerName or DocumentRoot or --)</li>
-  <li>The "\|" in the second grep command separates the regex with an "or" statement.  </li>
+  <li>The "\|" in the second grep command separates the regex with an "or" statement.  </li></ul>
 </li>
 </ol>
 
 ## Alias Command
+
 1. Choose a name for the command, in my case, show-sites
 2. Add the alias to the .bashrc or .bash_alias file in your home directory
 
 ```bash
+
 alias show-sites='grep "^ServerName" -A 3 /etc/apache2/sites-available/default | \
  grep "^ServerName\|^DocumentRoot\|^--"'
+
 ```
 
 ## Reload Your Bash Configuration
 
 ```bash
+
 . ~/.bashrc
+
 ```
 
 ## Show All Current Aliases
+
 Type alias at the command line to view all of the currently defined aliases.
 
 ```bash
