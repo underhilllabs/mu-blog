@@ -45,4 +45,4 @@ Here are some top 10 lists and, of course, a few cat pics.
 9. Blade Runner
 10. Aliens
 
-![Bossy Studying Calculus](/img/cats/calculus_for_bossy.jpg)
+![Bossy Studying Calculus](/img/cats/bossy.jpg)
