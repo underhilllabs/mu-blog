@@ -1,9 +1,8 @@
 - title: BookmarkMe App
   brief-description: an Android App to post to Bkmark.me
   category: [android, java]
-  project-url: http://github.com/underhilllabs/BookmarkMe/
   code-url: http://github.com/underhilllabs/BookmarkMe/
-  image-url: img/projects/boomarkme-screen1.png
+  image-url: img/projects/bookmarkme-screen1.png
 
 - title: Lursa Bot
   brief-description: >
