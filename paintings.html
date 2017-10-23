@@ -1,0 +1,16 @@
+---
+layout: default
+permalink: /paintings/
+---
+
+<div class="home">
+
+  <h2>My Paintings</h2>
+  {% for p in site.paintings %}
+    <p>
+      <h3><a href="{{ p.permalink }}">{{ p.title }}</a></h3>
+      <a href="{{ p.permalink }}"><img src="{{ p.thumb-url }}"></a>
+    </p>
+  {% endfor %}
+
+</div>
