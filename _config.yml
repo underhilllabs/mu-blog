@@ -8,6 +8,8 @@ twitter_username: bartofdenver
 github_username:  majorursa
 
 collections:
+  paintings:
+    output: true
   reviews:
     output: true
   notes:

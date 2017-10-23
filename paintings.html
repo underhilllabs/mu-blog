@@ -1,0 +1,18 @@
+---
+layout: default
+permalink: /paintings/
+---
+
+<div class="home">
+
+  <h2>My Paintings</h2>
+  <ul id="archive" class="list-unstyled">
+  {% for painting in site.paintings %}
+    <li >
+      <img src="{{ painting.thumb-url }}">
+      <a href="{{ painting.url }}">{{ painting.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+
+</div>
