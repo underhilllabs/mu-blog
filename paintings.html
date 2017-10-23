@@ -6,13 +6,11 @@ permalink: /paintings/
 <div class="home">
 
   <h2>My Paintings</h2>
-  <ul id="archive" class="list-unstyled">
-  {% for painting in site.paintings %}
-    <li >
-      <img src="{{ painting.thumb-url }}">
-      <a href="{{ painting.url }}">{{ painting.title }}</a>
-    </li>
+  {% for p in site.paintings %}
+    <p>
+      <h3><a href="{{ p.permalink }}">{{ p.title }}</a></h3>
+      <a href="{{ p.permalink }}"><img src="{{ p.thumb-url }}"></a>
+    </p>
   {% endfor %}
-  </ul>
 
 </div>
