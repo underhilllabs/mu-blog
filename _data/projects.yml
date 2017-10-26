@@ -3,7 +3,7 @@
   category: [android, java]
   code-url: http://github.com/underhilllabs/BookmarkMe/
   project-url: http://github.com/underhilllabs/BookmarkMe/
-  image-url: img/projects/bookmarkme-screen1.png
+  image-url: /img/projects/bookmarkme-screen1.png
 
 - title: Lursa Bot
   brief-description: A Klingon Telegram Bot written in Elixir that runs on a Raspberry Pi.
@@ -14,18 +14,18 @@
   category: [bot, raspberry pi, elixir]
   project-url: http://telegram.me/lursa_bot
   code-url: http://github.com/underhilllabs/lursa_pi_bot/
-  image-url: img/projects/lursa-project2.png
+  image-url: /img/projects/lursa-project2.png
 
 - title: Bkmark.me
   brief-description: a Social Bookmarking site written in Ruby on Rails.
   category: [website, ruby]
   project-url: http://bkmark.me
   code-url: http://github.com/underhilllabs/Bookies/
-  image-url: img/projects/bkmark_me.png
+  image-url: /img/projects/bkmark_me.png
 
 - title: Knitting Stash
   brief-description: a Knitting App for Android
   category: [mobile, android]
   code-url: http://github.com/underhilllabs/knitting-stash/
-  image-url: img/projects/knitting-stash/stash1.png
+  image-url: /img/projects/knitting-stash/stash1.png
 
