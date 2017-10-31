@@ -10,7 +10,7 @@
     position: relative;
 }
 span#brand-title {
-  font-size: 160%;
+  font-size: 1.6em;
 }
 
 h2 {
@@ -201,7 +201,7 @@ img.books {
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 1.5em;
 }
 
 
@@ -214,7 +214,7 @@ img.books {
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 2.625em;
     letter-spacing: -1px;
     line-height: 1;
 
@@ -227,32 +227,32 @@ img.books {
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 2em;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 1.75em;
         }
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 1.6em;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 1.3em;
         }
     }
 
     h4 {
-        font-size: 20px;
+        font-size: 1.25emx;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 1.1em;
         }
     }
 }
 
 ul#archive {
-  margin-left: 0em;
+  margin-left: 0;
 }
 
 div.project {
