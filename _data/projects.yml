@@ -1,5 +1,19 @@
+- title: Bookmarks
+  brief-description: a Social Bookmarking site (re)written in Elixir
+  category: [website, elixir]
+  project-url: http://bookmarks.denvertech.org
+  code-url: http://github.com/underhilllabs/bookmarks
+  image-url: /img/projects/bookmarkme_elixir.png
+
+- title: Big Snips
+  brief-description: an app to store your code snippets written in Elixir
+  category: [elixir]
+  code-url: http://github.com/underhilllabs/big_snips
+  project-url: http://snips.denvertech.org
+  image-url: /img/projects/bigsnips.png
+
 - title: BookmarkMe App
-  brief-description: an Android App to post to Bkmark.me
+  brief-description: an Android App to post to Bkmark.me or bookmarks.denvertech.orgt
   category: [android, java]
   code-url: http://github.com/underhilllabs/BookmarkMe/
   project-url: http://github.com/underhilllabs/BookmarkMe/
@@ -19,7 +33,6 @@
 - title: Bkmark.me
   brief-description: a Social Bookmarking site written in Ruby on Rails.
   category: [website, ruby]
-  project-url: http://bkmark.me
   code-url: http://github.com/underhilllabs/Bookies/
   image-url: /img/projects/bkmark_me.png
 
