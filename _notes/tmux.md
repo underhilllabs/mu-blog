@@ -18,6 +18,9 @@ permalink: cheatsheets/tmux/
 | C-b 1 | Jump to window 1|
 | C-b , | Rename window|
 | C-b % | Split pane|
+| C-b > | Jump to right pane |
+| C-b < | Jump to left pane |
+| C-b x | Kill current pane |
 | C-b ? | See list of available tmux commands|
 
 ## Share a session with another user
