@@ -6,6 +6,8 @@ permalink: /about/
 
 ![Seamus, Jedi Knight](/img/cats/seamus_jedi.jpg){: .book .img-circle} Hello, I'm Bart Lantz, I'm a programmer/geek living in Denvercityville, Colorado. I live here with my accordionist partner and our two cats. I ride bike everywhere. Colorado is great for that: you can commute by bike 11 months out of the year! I enjoy creating free open source software. I run Ubuntu Linux on my personal computers. My editors of choice are Emacs and Vim, yes, both! I love reading and occasionally writing: I've completed [National Novel Writing Month](http://nanowrimo.org) twice now.
 
+!["My Red Bike"](/img/me/miyata.jpg)
+
 This website is part blog, part grimoire of various computer incantations.
 
 Here are some top 10 lists and, of course, a few cat pics.
@@ -31,7 +33,8 @@ Here are some top 10 lists and, of course, a few cat pics.
 
 ### And now: moar cat!!
 
-![Bossy and Seamus](/img/cats/seamus.jpg)
+![Seamus, cat Detective](/img/cats/seamus.jpg)
+<h4>Detective Chief Inspector Seamus McGraw</h4>
 
 ## Favorite Movies
 1. 7 Samurai
@@ -45,4 +48,5 @@ Here are some top 10 lists and, of course, a few cat pics.
 9. Blade Runner
 10. Aliens
 
-![Bossy Studying Calculus](/img/cats/bossy.jpg)
+![Bossy Girl, looking into distance](/img/cats/bossy.jpg)
+<h4>Bossy Girl crossed the Rainbrow Bridge a couple years ago, she is deeply missed.</h4>
