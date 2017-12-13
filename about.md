@@ -48,5 +48,15 @@ Here are some top 10 lists and, of course, a few cat pics.
 9. Blade Runner
 10. Aliens
 
+
+## Favorite Programming Languages
+1. Elixir
+2. Clojure
+3. Scheme
+4. Ruby
+5. Go
+
+<img src="/img/elixir.png" alt="Elixir Logo" width="100px"> <img src="/img/clj.png" alt="Clojure" width="100px">
+
 ![Bossy Girl, looking into distance](/img/cats/bossy.jpg)
 <h4>Bossy Girl crossed the Rainbrow Bridge a couple years ago, she is deeply missed.</h4>
