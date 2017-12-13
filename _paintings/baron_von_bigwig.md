@@ -7,6 +7,7 @@ published: true
 thumb-url: /img/paintings/thumbs/bigwig_painting.jpg
 img-url: /img/paintings/bigwig_painting.jpg
 permalink: /paintings/portraits/baron_von_bigwig/
+description: A Portrait of Bigwig, Baron of Heavisides. 8x8" oil on canvas.
 ---
 
 A Portrait of Bigwig, Baron of Heavisides. 8x8" oil on canvas.

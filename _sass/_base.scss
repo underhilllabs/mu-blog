@@ -24,6 +24,10 @@ body {
 }
 
 
+body div.navbar, body div.navbar-inverse {
+  background: $brand-color !important;
+  background-color: $brand-color !important;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -201,4 +205,24 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+/**
+ * Paintings
+ */
+.painting {
+  background: #ededed;
+  border: 0.3px solid #999999;
+  padding: 1em 2em 1.3em 2em;
+  margin-top: 1em;
+  overflow:hidden;
+  img {
+    vertical-align: text-top;
+    float: left;
+  }
+  .description {
+    float: none;
+    padding-left: 15em;
+    padding-right: 1em;
+  }
 }

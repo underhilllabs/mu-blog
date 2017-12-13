@@ -7,10 +7,14 @@ permalink: /paintings/
 
   <h2>My Paintings</h2>
   {% for p in site.paintings %}
+  <div class="painting">
     <p>
       <h3><a href="{{ p.permalink }}">{{ p.title }}</a></h3>
-      <a href="{{ p.permalink }}"><img src="{{ p.thumb-url }}"></a>
+      <a href="{{ p.permalink }}"><img src="{{ p.thumb-url }}"></a> 
+      <div class="description">{{ p.description }}</div>
     </p>
+  </div>
+  
   {% endfor %}
 
 </div>
