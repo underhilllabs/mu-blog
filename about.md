@@ -58,5 +58,6 @@ Here are some top 10 lists and, of course, a few cat pics.
 
 <img src="/img/elixir.png" alt="Elixir Logo" width="100px"> <img src="/img/clj.png" alt="Clojure" width="100px">
 
+and one last love...
 ![Bossy Girl, looking into distance](/img/cats/bossy.jpg)
 <h4>Bossy Girl crossed the Rainbrow Bridge a couple years ago, she is deeply missed.</h4>
