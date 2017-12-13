@@ -8,3 +8,5 @@ thumb-url: /img/paintings/thumbs/hiker_painting.jpg
 img-url: /img/paintings/hiker_painting.jpg
 permalink: /paintings/landscape/hiker_dragon/
 ---
+
+This is a painting from a picture I took of my friend Jiah when we were hiking in Boulder, Colorado.

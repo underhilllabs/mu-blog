@@ -8,3 +8,5 @@ thumb-url: /img/paintings/thumbs/seamus_portrait.jpg
 img-url: /img/paintings/seamus_portrait.jpg
 permalink: /paintings/portraits/study_in_silver/
 ---
+
+A portrait of the intrepid Inspector Seamus McGraw, pondering another case.
