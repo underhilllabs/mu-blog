@@ -4,6 +4,7 @@ title: Xmonad Notes
 category: xmonad
 tags: [notes, xmonad]
 published: true
+notetype: cheatsheet
 permalink: cheatsheets/xmonad/
 ---
 
