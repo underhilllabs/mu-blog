@@ -13,7 +13,7 @@
   image-url: /img/projects/bigsnips.png
 
 - title: BookmarkMe App
-  brief-description: an Android App to post to Bkmark.me or bookmarks.denvertech.orgt
+  brief-description: an Android App to post to bookmark site
   category: [android, java]
   code-url: http://github.com/underhilllabs/BookmarkMe/
   project-url: http://github.com/underhilllabs/BookmarkMe/
