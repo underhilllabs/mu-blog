@@ -4,6 +4,7 @@ title: Vim Notes
 tags: vim
 notetype: cheatsheet
 category: vim
+permalink: cheatsheets/vim
 ---
 
 !["Why are we hiding from the police, Daddy? Because we use vim. Vim comic"](/img/hide_vi.jpg)
