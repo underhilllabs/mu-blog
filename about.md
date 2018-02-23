@@ -31,6 +31,19 @@ Here are some top 10 lists and, of course, a few cat pics.
 11. The City & the City by China Miéville
 (must stop…)
 
+## my favorite board games
+
+1. Gaia Project
+2. Spirit Island
+3. Gloomhaven
+5. Terra Mystica
+4. Concordia
+2. Power Grid
+7. Inis
+8. Hansa Teutonica
+
+{: .clearfix}
+
 
 ### And now: moar cat!!
 
