@@ -33,14 +33,21 @@ Here are some top 10 lists and, of course, a few cat pics.
 
 ## my favorite board games
 
-1. Gaia Project
+<img alt="Bigwig, cat Gamer" src="/img/cats/bigwig_gaia_planet.jpg">
+<h4>Bigwig considering his next move in Gaia Project</h4>
+
+My absolute favorite game mechanism is asymetrical player powers. My fave 4 games all of have different player abilities.
+
 2. Spirit Island
+1. Gaia Project
 3. Gloomhaven
 5. Terra Mystica
 4. Concordia
 2. Power Grid
 7. Inis
 8. Hansa Teutonica
+9. Orleans
+10. Thurn & Taxis
 
 {: .clearfix}
 
