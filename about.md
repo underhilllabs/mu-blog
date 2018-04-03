@@ -36,18 +36,18 @@ Here are some top 10 lists and, of course, a few cat pics.
 <img alt="Bigwig, cat Gamer" src="/img/cats/bigwig_gaia_planet.jpg">
 <h4>Bigwig considering his next move in Gaia Project</h4>
 
-My absolute favorite game mechanism is asymetrical player powers. My fave 4 games all of have different player abilities.
+My absolute favorite game mechanism is asymetrical player powers. My current top 4 games all of have different player abilities.
 
-2. Spirit Island
 1. Gaia Project
-3. Gloomhaven
-5. Terra Mystica
-4. Concordia
-2. Power Grid
+2. Spirit Island
+3. A Feast for Odin
+4. Terra Mystica
+5. Concordia
+6. Power Grid
 7. Inis
-8. Hansa Teutonica
-9. Orleans
-10. Thurn & Taxis
+8. The Voyages of Marco Polo
+9. Hansa Teutonica
+10. Azul
 
 {: .clearfix}
 
