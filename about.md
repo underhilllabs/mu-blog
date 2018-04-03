@@ -40,14 +40,14 @@ My absolute favorite game mechanism is asymetrical player powers. My current top
 
 1. Gaia Project
 2. Spirit Island
-3. A Feast for Odin
 4. Terra Mystica
 5. Concordia
-6. Power Grid
 7. Inis
 8. The Voyages of Marco Polo
 9. Hansa Teutonica
 10. Azul
+6. Power Grid
+3. A Feast for Odin
 
 {: .clearfix}
 
