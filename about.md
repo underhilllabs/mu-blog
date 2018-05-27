@@ -12,6 +12,26 @@ This website is part blog, part grimoire of various computer incantations.
 
 Here are some top 10 lists and, of course, a few cat pics.
 
+## my favorite board games
+
+<img alt="Bigwig, cat Gamer" src="/img/cats/bigwig_gaia_planet.jpg">
+<h4>Bigwig considering his next move in Gaia Project</h4>
+
+My favorite game mechanism is asymmetrical player powers. My current top 4 games all of have different player abilities.
+
+1. Gaia Project
+2. Spirit Island
+3. Concordia
+4. Anachrony
+5. Azul
+6. Altiplano
+7. Inis
+8. Heaven & Ale
+9. Hansa Teutonica
+10. Glass Road
+
+{: .clearfix}
+
 ## my favorite novels
 
 {: .clearfix}
@@ -31,31 +51,13 @@ Here are some top 10 lists and, of course, a few cat pics.
 11. The City & the City by China Miéville
 (must stop…)
 
-## my favorite board games
-
-<img alt="Bigwig, cat Gamer" src="/img/cats/bigwig_gaia_planet.jpg">
-<h4>Bigwig considering his next move in Gaia Project</h4>
-
-My absolute favorite game mechanism is asymetrical player powers. My current top 4 games all of have different player abilities.
-
-1. Gaia Project
-2. Spirit Island
-4. Terra Mystica
-5. Concordia
-7. Inis
-8. The Voyages of Marco Polo
-9. Hansa Teutonica
-10. Azul
-6. Power Grid
-3. A Feast for Odin
-
-{: .clearfix}
-
 
 ### And now: moar cat!!
 
 <img alt="Seamus, cat Detective" src="/img/cats/seamus.jpg">
 <h4>Detective Chief Inspector Seamus McGraw</h4>
+
+## Favorite Paintings
 
 ## Favorite Movies
 1. 7 Samurai
