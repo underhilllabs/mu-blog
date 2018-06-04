@@ -17,16 +17,14 @@ Here are some top 10 lists and, of course, a few cat pics.
 <img alt="Bigwig, cat Gamer" src="/img/cats/bigwig_gaia_planet.jpg">
 <h4>Bigwig considering his next move in Gaia Project</h4>
 
-My favorite game mechanism is asymmetrical player powers. My current top 4 games all of have different player abilities.
-
-1. Gaia Project
-2. Spirit Island
-3. Concordia
-4. Anachrony
-5. Azul
-6. Altiplano
-7. Inis
-8. Heaven & Ale
+1. Concordia
+2. Heaven & Ale
+3. Anachrony
+4. Azul
+5. Gaia Project
+6. Spirit Island
+7. Altiplano
+8. Inis
 9. Hansa Teutonica
 10. Glass Road
 
