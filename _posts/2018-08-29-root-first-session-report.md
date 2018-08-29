@@ -11,7 +11,7 @@ On Tuesday night I attended my first Denver GMT+ Meetup. It was a friendly group
 
 Prior to this game, Mike the Marquise, had played once as the Vagabond. I, Woodland Alliance, had watched a few playthrough videos and memorized the manuals :), Robert, the Eyrie, had also watched an instruction video, and our hapless Vagabond, was completely new to the game, but was a very quick study.
 
-The Vagabond selected the Ranger, perhaps with visions of Aragorn. Meanwhile, up in the tree canopy in the Northeast, the Builder seized control of the Eyrie.
+The Vagabond selected the Ranger, perhaps with visions of Aragon. Meanwhile, up in the tree canopy in the Northeast, the Builder seized control of the Eyrie.
 
 The lay of the land was: on the Southwest corner of the board the Marquise had placed her Keep, on the Northeast corner the Eyrie built their first roost, the Vagabond tracked through the forest in the middle of the board and the Woodland Alliance waited for their moment.
 
