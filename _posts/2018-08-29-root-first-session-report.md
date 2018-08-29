@@ -3,7 +3,7 @@ layout: post
 title: Root First Play Session Report
 tags: boardgames 
 category: boardgames, sessionreport
-date: 2018-09-29 09:20
+date: 2018-08-29 09:20
 ---
 
 ## Root First Play
@@ -21,7 +21,13 @@ Next the Eyrie, placed a bird in their battle decree. So they were required to R
 
 Next the cats, built a sawmill, overworked, built a recruiter. And finally the Vagabond, bless his soul, gave me aid and earned a vp for his selfless good acts.
 
+<a href="https://birdhouse.nyc3.digitaloceanspaces.com/img/root_round_1_vagabond_to_play.jpg"><img src="https://birdhouse.nyc3.digitaloceanspaces.com/img/root_round_1_vagabond_to_play.jpg" width="600px"></a>
+
 ## Mid Game
+
+I built up a good lead for the first part of the game, scoring a lot of vp for placing sympathy tokens and yet getting beaten back and struggling to get a good draw card economy.
+
+<a href="https://birdhouse.nyc3.digitaloceanspaces.com/img/wa_early_lead.jpg"><img width="800px" src="https://birdhouse.nyc3.digitaloceanspaces.com/img/wa_early_lead.jpg"></a>
 
 The game progressed with the Birds and Cats expanding and beating the WA down when they had too many sympathy tokens. The Birds filled up with bird cards for their decree and then added a Mouse to the recruit, which matched their starting roost and eventually a bird and rabbit to Recruit and another rabbit to move. Their territory was a mouse clearing in the NE and the two rabbit clearings in the North Central.
 
@@ -31,11 +37,15 @@ The Vagabond built up an amazing arsenal exploring ruins, with 2 swords and 2 cr
 
 My intention was to wait to revolt until I had 2 matching clearings, so I would maximize warriors on the base, but this kept me at 1 draw and finally led to a brutal round where the Birds entered a clearing with my sympathy (4th supporter) destroyed the token (5th supporter). When the Marquise saw I had 5 supporters she attacked and destroyed 2 of my sympathy tokens (both supporters discarded.) I revolted the following round in a central fox clearing, but I felt my momentum was lost, as I was low on cards and this was the first time I was able to finally draw 2 cards. 
 
+<a href="https://birdhouse.nyc3.digitaloceanspaces.com/img/who_us.jpg"><img width="800px" src="https://birdhouse.nyc3.digitaloceanspaces.com/img/who_us.jpg"></a>
+
 Next round: the birds attacked my base, but I was able to easily hold on to it. Unfortunately my 3 supporters were fox, rabbit, mouse so I was not able to revolt. 
 
 ## End Game 
 
 At this time the Birds were at 18 points and I calculated they would win in 2 rounds. The cats were close behind them and the Vagabond and I were at 15. The final 2 rounds were a race between the Birds and Cats for points, while the Vagabond and I tried to stop them. In the final round the Eyrie crafted a 2 vp item, removed a lone Sympathy Token and built a roost for 7 vp to end at 30. The cats were right behind at 27, the Vagabond at 24 and the Woodland Alliance, fallen so far, at 17 vp.
+
+<a href="https://birdhouse.nyc3.digitaloceanspaces.com/img/root_end_game.jpg"><img width="800px" src="https://birdhouse.nyc3.digitaloceanspaces.com/img/root_end_game.jpg"></a>
 
 ## Final Thoughts
 
