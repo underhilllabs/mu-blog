@@ -37,10 +37,10 @@ The cats continued building in the south and west, with a focus on sawmills.
 
 The Vagabond built up an amazing arsenal exploring ruins, with 2 swords and 2 crossbows, but got a teapot a bit late. So until the 5th round, was only refreshing 3 items each birdsong.
 
-My intention was to wait to revolt until I had 2 matching clearings, so I would maximize warriors on the base, but this kept me at 1 draw and finally led to a brutal round where the Birds entered a clearing with my sympathy (giving me my 4th supporter) destroyed the token (my 5th supporter). When the Marquise saw I had 5 supporters she attacked and destroyed 2 of my sympathy tokens (both outraged supporters gained had to be discarded.) I revolted the following round in a central fox clearing, but I felt my momentum was lost, as I was low on cards and this was the first time I was able to finally draw 2 cards. 
+My intention was to wait to revolt until I had 2 matching clearings, so I would maximize warriors on the base, but this kept me at 1 draw and finally led to a brutal round where the Birds entered a clearing with my sympathy (giving me my 4th supporter) destroyed the token (my 5th supporter). Once the Marquise realized that I had the maximum of 5 cards in my supportors deck, she attacked and destroyed 2 of my sympathy tokens in her territory (both cards I earned from this Outrage had to be immediately discarded. Including one bird.) The following round I staged my first revolt in a central fox clearing, but I felt my momentum was lost, as I was low on cards and this was the first time I was able to finally draw 2 cards. 
 <a href="https://birdhouse.nyc3.digitaloceanspaces.com/img/who_us.jpg"><img width="800px" src="https://birdhouse.nyc3.digitaloceanspaces.com/img/who_us.jpg"></a>
 
-Next round: the birds attacked my base, but I was able to easily hold on to it. Unfortunately my 3 supporters were fox, rabbit, mouse so I was not able to revolt. 
+Next round: the birds attacked my newly created base, but I was able to easily hold on to it. Unfortunately when my next turn came I had 3 different cards in my supporters deck: fox, rabbit, mouse so I was not able to revolt and keep my momentum going. (You are required to spend 2 cards in the same suit to stage a revolt in a clearing of that suit.) Also having 3 different suits I was not able to add sympathy tokens, either, as I required 2 like suited card in order to place the next level sympathy token.
 
 ## End Game 
 
