@@ -18,15 +18,15 @@ Here are some top 10 lists and, of course, a few cat pics.
 <h4>Bigwig considering his next move in Gaia Project</h4>
 
 1. Concordia
-2. Heaven & Ale
-3. Anachrony
-4. Azul
-5. Gaia Project
-6. Spirit Island
-7. Altiplano
-8. Inis
-9. Hansa Teutonica
-10. Glass Road
+2. Hansa Teutonica
+9. Brass: Birmingham
+3. Heaven & Ale
+4. Gaia Project
+8. Great Western Trail
+7. Yokohama
+6. Troyes
+5. Clans of Caledonia
+10. Anachrony
 
 {: .clearfix}
 
