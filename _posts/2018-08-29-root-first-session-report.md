@@ -51,7 +51,7 @@ At this time the Birds were at 18 points and I calculated they would win in 2 ro
 
 I LOVED this game. It was so fun all of the interactions, trying (unsuccessfully) to talk other factions into attacking the Marquise or the Eyrie and blowing up clearings (not you Vagabond!) with a revolt.
 
-In future games I will revolt sooner, the base will likely take care of itself with the Guerilla Warfare, and the extra card draw and military operations are crucial to continuing momentum.
+In future games I will revolt sooner, the base will likely take care of itself with the Guerilla Warfare, and the extra card draw and military operations are crucial to continuing momentum. In our end-game analysis, another play suggested I should place all of my sympathy tokens in one players territory, my one concern with this would be that I would then enabling the other expansive player (cat or bird) to run away with the game if I tied up the other one. But I will have to try that next time.
 
 Also I feel like the Vagabond could have been a heavier influence if he had gotten the teapot earlier to refresh 5 items each turn instead of just 3. That is a crucial piece of equipment for the Ranger. As it was he single-handedly took over a clearing from the Birds (with 3 bird warriors yet) with the 2 swords and 2 crossbows.
 
