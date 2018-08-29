@@ -2,7 +2,8 @@
 layout: post
 title: Root First Play Session Report
 tags: boardgames 
-category: boardgames, session-report
+category: boardgames, sessionreport
+date: 2018-09-29 09:20
 ---
 
 ## Root First Play
