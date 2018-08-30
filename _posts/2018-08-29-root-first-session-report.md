@@ -48,7 +48,7 @@ My intention was to wait to revolt until I had 2 matching clearings, so I would 
 
 <a href="https://birdhouse.nyc3.digitaloceanspaces.com/img/who_us.jpg"><img width="800px" src="https://birdhouse.nyc3.digitaloceanspaces.com/img/who_us.jpg"></a>
 
-    Next round: the birds attacked my newly created base, but I was able to easily hold on to it. Unfortunately when my next turn came I had 3 different cards in my supporter stack: fox, rabbit, mouse so I was not able to revolt and keep my momentum going. (You are required to spend 2 cards in the same suit to stage a revolt in a clearing of that suit.) Also having 3 different suits I was not able to add sympathy tokens, either, as I required 2 like suited card in order to place the next level sympathy token.
+Next round: the birds attacked my newly created base, but I was able to easily hold on to it. Unfortunately when my next turn came I had 3 different cards in my supporter stack: fox, rabbit, mouse so I was not able to revolt and keep my momentum going. (You are required to spend 2 cards in the same suit to stage a revolt in a clearing of that suit.) Also having 3 different suits I was not able to add sympathy tokens, either, as I required 2 like suited card in order to place the next level sympathy token.
 
 ## End Game 
 
