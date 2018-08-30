@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Seamus, Jedi Knight](/img/cats/seamus_jedi.jpg){: .book .img-circle} Hello, I'm Bart Lantz, I'm a programmer/geek living in Denvercityville, Colorado. I live here with my accordionist partner and our two cats. I ride bike everywhere. Colorado is great for that: you can commute by bike 11 months out of the year! I enjoy creating free open source software. I run Ubuntu Linux on my personal computers. My editors of choice are Emacs and Vim, yes, both! I love reading and occasionally writing: I've completed [National Novel Writing Month](http://nanowrimo.org) twice now.
+![Seamus, Jedi Knight](/img/cats/seamus_jedi.jpg){: .book .img-circle} Hello, I'm Bart Lantz, I'm a programmer/geek living in Denvercityville, Colorado. I live here with my accordionist husband and our two cats. I ride bike everywhere. Colorado is great for that: you can commute by bike 11 months out of the year! I enjoy creating free open source software. I run Ubuntu Linux on my personal computers. My editors of choice are Emacs and Vim, yes, both! I love reading and occasionally writing: I've completed [National Novel Writing Month](http://nanowrimo.org) twice now.
 
 <img alt="My Red Bike" src="/img/me/miyata.jpg">
 
@@ -19,13 +19,13 @@ Here are some top 10 lists and, of course, a few cat pics.
 
 1. Concordia
 2. Hansa Teutonica
-9. Brass: Birmingham
-3. Heaven & Ale
-4. Gaia Project
-8. Great Western Trail
+3. Brass: Birmingham
+4. Heaven & Ale
+5. Gaia Project
+6. Great Western Trail
 7. Yokohama
-6. Troyes
-5. Clans of Caledonia
+8. Troyes
+9. Clans of Caledonia
 10. Root
 
 {: .clearfix}
@@ -82,6 +82,7 @@ Here are some top 10 lists and, of course, a few cat pics.
 <p><br />
 
 <img alt="Bossy Girl, looking into distance" src="/img/cats/bossy.jpg" width="500px">
+
 and one last love...
 
 <h4>Bossy Girl crossed the Rainbow Bridge a couple years ago, she is deeply missed.</h4>
