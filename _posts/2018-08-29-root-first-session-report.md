@@ -11,7 +11,9 @@ date: 2018-08-29 09:20
 On Tuesday night I attended my first Denver GMT+ Meetup. It was a friendly group of
 war/strategy game players. And that night's game of the week was Root!
 
-Prior to this game, Mike the Marquise, had played once as the Vagabond. I, Woodland Alliance, had watched a few playthrough videos and memorized the manuals :), Robert, the Eyrie, had also watched an instruction video, and our hapless Vagabond, was completely new to the game, but was a very quick study.
+Prior to this game, Mike the Marquise, had played once as the Vagabond. I, Woodland
+Alliance, had watched a few playthrough videos and memorized the manuals :), Robert, the
+Eyrie, had also watched an instruction video, and our hapless Vagabond, Don, was completely new to the game, but was a very quick study.
 
 The Vagabond selected the Ranger, perhaps with visions of Aragorn. Meanwhile, up in the tree canopy in the Northeast, the Builder seized control of the Eyrie.
 
@@ -46,7 +48,7 @@ My intention was to wait to revolt until I had 2 matching clearings, so I would 
 
 <a href="https://birdhouse.nyc3.digitaloceanspaces.com/img/who_us.jpg"><img width="800px" src="https://birdhouse.nyc3.digitaloceanspaces.com/img/who_us.jpg"></a>
 
-Next round: the birds attacked my newly created base, but I was able to easily hold on to it. Unfortunately when my next turn came I had 3 different cards in my supporter stack: fox, rabbit, mouse so I was not able to revolt and keep my momentum going. (You are required to spend 2 cards in the same suit to stage a revolt in a clearing of that suit.) Also having 3 different suits I was not able to add sympathy tokens, either, as I required 2 like suited card in order to place the next level sympathy token.
+    Next round: the birds attacked my newly created base, but I was able to easily hold on to it. Unfortunately when my next turn came I had 3 different cards in my supporter stack: fox, rabbit, mouse so I was not able to revolt and keep my momentum going. (You are required to spend 2 cards in the same suit to stage a revolt in a clearing of that suit.) Also having 3 different suits I was not able to add sympathy tokens, either, as I required 2 like suited card in order to place the next level sympathy token.
 
 ## End Game 
 
