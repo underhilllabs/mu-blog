@@ -1,10 +1,10 @@
 # Site settings
 title: Major Ursa Blog
+permalink: /:year/:month/:day/:title:output_ext
 #email: bartlantz@gmail.com
-description: "This is a blog about all of my geeky loves and obsessions: vim and emacs, programming, painting, cats and science fiction."
+description: "This is a blog about all of my geeky loves and obsessions: board games, vim and emacs, programming, painting, cats and science fiction."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://majorursa.net" # the base hostname & protocol for your site
-twitter_username: bartofdenver
 github_username:  majorursa
 
 collections:
