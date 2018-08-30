@@ -7,13 +7,18 @@ date: 2018-08-29 09:20
 ---
 
 ## Root First Play
-On Tuesday night I attended my first Denver GMT+ Meetup. It was a friendly group of war/strategy game players. And that night's game was Root!
+
+On Tuesday night I attended my first Denver GMT+ Meetup. It was a friendly group of
+war/strategy game players. And that night's game of the week was Root!
 
 Prior to this game, Mike the Marquise, had played once as the Vagabond. I, Woodland Alliance, had watched a few playthrough videos and memorized the manuals :), Robert, the Eyrie, had also watched an instruction video, and our hapless Vagabond, was completely new to the game, but was a very quick study.
 
 The Vagabond selected the Ranger, perhaps with visions of Aragorn. Meanwhile, up in the tree canopy in the Northeast, the Builder seized control of the Eyrie.
 
-The lay of the land was: on the Southwest corner of the board the Marquise had placed her Keep, on the Northeast corner the Eyrie built their first roost, the Vagabond tracked through the forest in the middle of the board and the Woodland Alliance waited for their moment.
+The lay of the land was: on the Southwest corner of the board the Marquise had placed her
+Keep, on the Northeast corner the Eyrie built their first roost, the Vagabond tracked
+through the forest in the middle of the board and the Woodland Alliance waited quietly for
+their moment to rise up.
 
 ## Openings
 
@@ -50,11 +55,24 @@ At this time the Birds were at 18 points and I calculated they would win in 2 ro
 
 ## Final Thoughts
 
-I LOVED this game. It was so fun with all of the player interaction and trying (unsuccessfully) to talk other factions into attacking the Marquise or the Eyrie and blowing up clearings (but not you Vagabond!) with a revolt.
+I LOVED this game. It was so fun with all of the interactions, trying (unsuccessfully) to
+talk other factions into attacking the Marquise or the Eyrie and blowing up clearings (but
+not you Vagabond!) with a revolt.
 
-In future games I will launch my first revolt sooner as the base will likely take care of protecting itself with my Guerilla Warfare ability, and the extra card draw and military operations are crucial to continuing the Woodland Alliances early momentum. In our end-game analysis, another play suggested I should place all of my sympathy tokens in one players territory, my one concern with this would be that I would then enabling the other expansive player (cat or bird) to run away with the game if I tied up the other one. But I will have to try that next time.
+In future games I will revolt sooner, the base will likely take care of itself with my
+Guerilla Warfare ability (which gives the Woodland Alliance the higher dice when being
+attacked). Also the extra card draw, unlimited supporter stack and military operations I
+gain from a base are crucial to continuing momentum. In our end-game analysis, another
+player suggested I should place all of my sympathy tokens in one players territory in
+order to limit the amount that would get removed, my one concern with this would be that I
+would then be attacking one of the two armiers and enabling the other expansive player
+(cat or bird) to run away with the game if I tied up the other one. But I will have to try
+that next time.
 
-Also I feel like the Vagabond could have been a heavier influence if he had gotten the teapot earlier to refresh 5 items each turn instead of just 3. That is a crucial piece of equipment for the Ranger. As it was, he single-handedly took over a clearing from the Birds (with 3 bird warriors yet) with the 2 swords and 2 crossbows.
+Also I feel like the Vagabond could have been a heavier influence if he had gotten the
+teapot earlier to refresh 5 items each turn instead of just 3. That is a crucial piece of
+equipment for the Ranger. As it was he single-handedly took over a clearing from the Birds
+(with 3 bird warriors yet) with the 2 swords and 2 crossbows.
 
-I assumed after the game I would want to play other factions, but I really want another shot at the Woodland Alliance. But yeah, also Eyrie and Vagabond too!
-
+I assumed after the game I would want to play other factions, but I really want another
+shot at the Woodland Alliance. But yeah, I can't wait to play the Eyrie and Vagabond as well!
