@@ -10,23 +10,23 @@ permalink: /about/
 
 This website is part blog, part grimoire of various computer incantations.
 
-Here are some top 10 lists and, of course, a few cat pics.
+Here are some top 10 lists and, more importantly, a few cat pics.
 
 ## my favorite board games
 
 <img alt="Bigwig, cat Gamer" src="/img/cats/bigwig_gaia_planet.jpg">
 <h4>Bigwig considering his next move in Gaia Project</h4>
 
-1. Concordia
-2. Hansa Teutonica
-3. Brass: Birmingham
-4. Heaven & Ale
-5. Gaia Project
-6. Great Western Trail
-7. Yokohama
 8. Troyes
+2. Hansa Teutonica
+4. Twilight Imperium 4e
+1. Concordia
+5. Gaia Project
+3. Brass: Birmingham
+6. Viticulture
 9. Clans of Caledonia
 10. Root
+7. Pax Renaissance
 
 {: .clearfix}
 
