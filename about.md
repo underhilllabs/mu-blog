@@ -17,16 +17,17 @@ Here are some top 10 lists and, more importantly, a few cat pics.
 <img alt="Bigwig, cat Gamer" src="/img/cats/bigwig_gaia_planet.jpg">
 <h4>Bigwig considering his next move in Gaia Project</h4>
 
+4. Twilight Imperium 4e
 8. Troyes
 2. Hansa Teutonica
-4. Twilight Imperium 4e
 1. Concordia
 5. Gaia Project
 3. Brass: Birmingham
+7. Terra Mystica
 6. Viticulture
 9. Clans of Caledonia
 10. Root
-7. Pax Renaissance
+
 
 {: .clearfix}
 
