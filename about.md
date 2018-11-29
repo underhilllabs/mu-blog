@@ -4,31 +4,30 @@ title: About
 permalink: /about/
 ---
 
-![Seamus, Jedi Knight](/img/cats/seamus_jedi.jpg){: .book .img-circle} Hello, I'm Bart Lantz, I'm a programmer/geek living in Denvercityville, Colorado. I live here with my accordionist partner and our two cats. I ride bike everywhere. Colorado is great for that: you can commute by bike 11 months out of the year! I enjoy creating free open source software. I run Ubuntu Linux on my personal computers. My editors of choice are Emacs and Vim, yes, both! I love reading and occasionally writing: I've completed [National Novel Writing Month](http://nanowrimo.org) twice now.
+![Seamus, Jedi Knight](/img/cats/seamus_jedi.jpg){: .book .img-circle} Hello, I'm Bart Lantz, I'm a programmer/geek living in Denvercityville, Colorado. I live here with my accordionist husband and our two cats. I ride bike everywhere. Colorado is great for that: you can commute by bike 11 months out of the year! I enjoy creating free open source software. I run Ubuntu Linux on my personal computers. My editors of choice are Emacs and Vim, yes, both! I love reading and occasionally writing: I've completed [National Novel Writing Month](http://nanowrimo.org) twice now.
 
 <img alt="My Red Bike" src="/img/me/miyata.jpg">
 
 This website is part blog, part grimoire of various computer incantations.
 
-Here are some top 10 lists and, of course, a few cat pics.
+Here are some top 10 lists and, more importantly, a few cat pics.
 
 ## my favorite board games
 
 <img alt="Bigwig, cat Gamer" src="/img/cats/bigwig_gaia_planet.jpg">
 <h4>Bigwig considering his next move in Gaia Project</h4>
 
-My favorite game mechanism is asymmetrical player powers. My current top 4 games all of have different player abilities.
+4. Twilight Imperium 4e
+8. Troyes
+2. Hansa Teutonica
+1. Concordia
+5. Gaia Project
+3. Brass: Birmingham
+7. Terra Mystica
+6. Viticulture
+9. Clans of Caledonia
+10. Root
 
-1. Gaia Project
-2. Spirit Island
-3. Concordia
-4. Anachrony
-5. Azul
-6. Altiplano
-7. Inis
-8. Heaven & Ale
-9. Hansa Teutonica
-10. Glass Road
 
 {: .clearfix}
 
@@ -84,6 +83,7 @@ My favorite game mechanism is asymmetrical player powers. My current top 4 games
 <p><br />
 
 <img alt="Bossy Girl, looking into distance" src="/img/cats/bossy.jpg" width="500px">
+
 and one last love...
 
 <h4>Bossy Girl crossed the Rainbow Bridge a couple years ago, she is deeply missed.</h4>
