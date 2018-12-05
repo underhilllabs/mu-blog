@@ -22,8 +22,8 @@ Here are some top 10 lists and, more importantly, a few cat pics.
 2. Hansa Teutonica
 1. Concordia
 5. Gaia Project
-3. Brass: Birmingham
 7. Terra Mystica
+3. Brass: Birmingham
 6. Viticulture
 9. Clans of Caledonia
 10. Root
