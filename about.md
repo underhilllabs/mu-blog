@@ -20,9 +20,9 @@ Here are some top 10 lists and, more importantly, a few cat pics.
 4. Twilight Imperium 4e
 8. Troyes
 2. Hansa Teutonica
-1. Concordia
 5. Gaia Project
 7. Terra Mystica
+1. Concordia
 3. Brass: Birmingham
 6. Viticulture
 9. Clans of Caledonia
