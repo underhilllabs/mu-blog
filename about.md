@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Seamus, Jedi Knight](/img/cats/seamus_jedi.jpg){: .book .img-circle} Hello, I'm Bart Lantz, I'm a programmer/geek living in Denvercityville, Colorado. I live here with my accordionist husband and our two cats. I ride bike everywhere. Colorado is great for that: you can commute by bike 11 months out of the year! I enjoy creating free open source software. I run Ubuntu Linux on my personal computers. My editors of choice are Emacs and Vim, yes, both! I love reading and occasionally writing: I've completed [National Novel Writing Month](http://nanowrimo.org) twice now.
+![Seamus, Jedi Knight](/img/cats/seamus_jedi.jpg){: .book .img-circle} Hello, I'm Bart Lantz, I'm a programmer/geek living in Denvercityville, Colorado. I live here with my accordionist husband and our two cats. I ride bike everywhere. Colorado is great for that: you can commute by bike 11 months out of the year! I enjoy creating free open source software. I run Linux on my personal computers. My editors of choice are Emacs and Vim, yes, both! I love reading and occasionally writing: I've completed [National Novel Writing Month](http://nanowrimo.org) twice now.
 
 <img alt="My Red Bike" src="/img/me/miyata.jpg">
 
@@ -17,15 +17,15 @@ Here are some top 10 lists and, more importantly, a few cat pics.
 <img alt="Bigwig, cat Gamer" src="/img/cats/bigwig_gaia_planet.jpg">
 <h4>Bigwig considering his next move in Gaia Project</h4>
 
-7. Terra Mystica
-5. Gaia Project
-4. Twilight Imperium 4e
-8. Troyes
-2. Hansa Teutonica
-1. Concordia
-3. Brass: Birmingham
-6. Viticulture
-9. Clans of Caledonia
+1. Twilight Imperium 4e
+3. Troyes
+4. Hansa Teutonica
+5. The Voyages of Marco Polo
+2. Gaia Project
+5. Terra Mystica
+9. Concordia
+6. Brass: Birmingham
+8. Spirit Island
 10. Root
 
 
@@ -48,6 +48,7 @@ Here are some top 10 lists and, more importantly, a few cat pics.
 8. At Swim, Two Boys by Jamie O'Neill
 10. Cat's Cradle by Kurt Vonnegut
 11. The City & the City by China Miéville
+4. The Algebraist by Iain M. Banks
 (must stop…)
 
 
