@@ -12,22 +12,44 @@ This website is part blog, part grimoire of various computer incantations.
 
 Here are some top 10 lists and, more importantly, a few cat pics.
 
+
+
 ## my favorite board games
+
+1. Troyes
+2. Hansa Teutonica
+3. The Voyages of Marco Polo
+4. Twilight Imperium 4e
+5. Gaia Project
+6. Concordia
+7. Brass: Birmingham
+8. Great Western Trail
+9. Terra Mystica
+10. a Feast for Odin
 
 <img alt="Bigwig, cat Gamer" src="/img/cats/bigwig_gaia_planet.jpg">
 <h4>Bigwig considering his next move in Gaia Project</h4>
 
-1. Twilight Imperium 4e
-3. Troyes
-4. Hansa Teutonica
-5. The Voyages of Marco Polo
-2. Gaia Project
-5. Terra Mystica
-9. Concordia
-6. Brass: Birmingham
-8. Spirit Island
-10. Root
 
+{: .clearfix}
+
+## Favorite Crime Drama/Mystery Series
+
+1. Twin Peaks
+2. Prime Suspect with Helen Mirren
+3. Father Brown
+4. Inspector Morse
+5. Shetland
+6. River
+7. Fortitude
+8. Wallander
+9. Trapped (Iceland)
+10. Mindhunter 
+
+{: .clearfix}
+
+<img alt="Seamus, cat Detective" src="/img/cats/seamus.jpg">
+<h4>Detective Chief Inspector Seamus McGraw</h4>
 
 {: .clearfix}
 
@@ -52,10 +74,6 @@ Here are some top 10 lists and, more importantly, a few cat pics.
 (must stop…)
 
 
-### And now: moar cat!!
-
-<img alt="Seamus, cat Detective" src="/img/cats/seamus.jpg">
-<h4>Detective Chief Inspector Seamus McGraw</h4>
 
 ## Favorite Paintings
 
