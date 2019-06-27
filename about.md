@@ -14,18 +14,26 @@ Here are some top 10 lists and, more importantly, a few cat pics.
 
 
 
+
 ## my favorite board games
 
 1. Troyes
-2. Hansa Teutonica
 6. Concordia
 10. Orleans
+2. Hansa Teutonica
 7. Brass: Birmingham
+5. Altiplano
 8. Great Western Trail
 4. Twilight Imperium 4e
 8. A Feast for Odin
-5. Gaia Project
 3. The Voyages of Marco Polo
+
+
+
+<img alt="Seamus, cat Gamer" src="/img/bg/seamus_viticulture.jpg">
+<h4>Seamus planning his Vineyard</h4>
+
+<h3>Meanwhile...</h3>
 
 <img alt="Bigwig, cat Gamer" src="/img/cats/bigwig_gaia_planet.jpg">
 <h4>Bigwig considering his next move in Gaia Project</h4>
@@ -75,6 +83,20 @@ Here are some top 10 lists and, more importantly, a few cat pics.
 (must stop…)
 
 
+## Favorite Albums
+1. **Five Leaves Left**, Nick Drake
+9. **Rain Dogs**, Tom Waits
+3. **Complete Studio Recordings**, Mississippi John Hurt
+15. **Kind of Blue**, Miles Davis
+8. **La Pistola y El Corazon**, Los Lobos
+2. **Getz/Gilberto (feat. Antonio Carlos Jobim)**, Stan Getz and Joao Gilberto
+6. **Blue**, Joni Mitchell
+10. **Vampire Weekend**, Vampire Weekend
+5. **Pink Moon**, Nick Drake
+7. **The Hottest New Group in Jazz**, Lambert, Hendricks and Ross
+11. **The Life Pursuit**, Belle & Sebastian
+14. **The Best Best of Fela Kuti**, Fela Kuti
+16. **Blood on the Tracks**, Bob Dylan
 
 ## Favorite Paintings
 
