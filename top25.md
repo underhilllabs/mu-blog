@@ -11,14 +11,15 @@ In honour of the Second Annual SeamusCon, here is my current top 25 board game l
 4.  1846
 1.  Troyes
 5.  Brass: Birmingham
-7.  18CZ
+7.  1862
 3.  Pax Pamir, 2e
 6.  Hansa Teutonica
-7.  1889
-2.  Concordia Venus
+7.  18CZ
+2.  Concordia
 9.  Great Western Trail
+1.  Root
 10. Yokohama
-8.  City of the Big Shoulders
+8.  1889
 9.  Marco Polo
 11. Altiplano
 12. Glass Road
@@ -28,8 +29,7 @@ In honour of the Second Annual SeamusCon, here is my current top 25 board game l
 1.  Gaia Project
 1.  Terra Mystica
 1.  Age of Steam
-1.  Root
-1.  Bruxelles 1893
+1.  Pax Renaissance
 1.  Heaven & Ale
 1.  Tournay
 25.  Nusfjord
