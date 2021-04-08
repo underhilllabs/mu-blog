@@ -1,3 +1,10 @@
+- title: 18Den
+  brief-description: an 18xx blog written in Ruby on Rails
+  category: [website, ruby]
+  project-url: https://18den.com
+  code-url: http://github.com/underhilllabs/18den
+  image-url: /img/projects/18den.png
+
 - title: Bookmarks
   brief-description: a Social Bookmarking site (re)written in Elixir
   category: [website, elixir]
