@@ -1,5 +1,5 @@
 ---
-title: Top 25 Board Games List
+title: Top 25 Board Games List (2022)
 layout: page
 date: 2019-03-20 09:00:00
 category: boardgames
@@ -30,7 +30,7 @@ permalink: /top25/
 7. Android: Netrunner
 1. On Mars
 2. Tournay
-10. Altiplano 
+10. Altiplano
 
 
-See previous [top 25 from 2020](top25-2020)
+See previous [top 25 from 2020](/top25_2020)
