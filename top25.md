@@ -16,21 +16,21 @@ permalink: /top25/
 1. Gaia Project
 1. Terra Mystica
 8. Le Havre
-1. Concorrdia
+1. Concordia
 1. Pax Renaissance
-1. 1817
 1. Ginkgopolis
 1. New Frontiers
 1. Heaven & Ale
-2. 1849
+2. Tzolk'in
 3. Caverna
 4. A Feast for Odin
-5. Twilight Imperium 4
+5. 18Ireland
 6. Nusfjord
 7. Android: Netrunner
 1. On Mars
 2. Tournay
 10. Altiplano
+10. Twilight Imperium 4e
 
 
 See previous [top 25 from 2020](/top25_2020)
