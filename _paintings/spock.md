@@ -3,7 +3,7 @@ layout: painting
 title: Spock on the Bridge
 category: portraits
 tags: [star trek, portraits, scifi]
-published: true
+published: false
 thumb-url: /img/paintings/thumbs/spock.jpg
 img-url: /img/paintings/spock.jpg
 permalink: /paintings/portraits/spock/
