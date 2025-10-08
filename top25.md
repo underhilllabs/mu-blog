@@ -1,36 +1,41 @@
 ---
-title: Top 25 Board Games List (2022)
+title: Top 25 Board Games List (2025)
 layout: page
-date: 2019-03-20 09:00:00
+date: 2024-03-26 09:00:00
 category: boardgames
 permalink: /top25/
 ---
 
-1. Hansa Teutonica
-1. Brass Birmingham
-1. Troyes
-1. Pax Pamir 2e
-1. Lisboa
-1. Great Western Trail
-1. 1862
-1. Gaia Project
-1. Terra Mystica
-8. Le Havre
-1. Concordia
-1. Pax Renaissance
-1. Ginkgopolis
-1. New Frontiers
-1. Heaven & Ale
-2. Tzolk'in
-3. Caverna
-4. A Feast for Odin
-5. 18Ireland
-6. Nusfjord
-7. Android: Netrunner
-1. On Mars
-2. Tournay
-10. Altiplano
-10. Twilight Imperium 4e
+1. Age of Steam
+2. Brass Birmimgham
+3. Hansa Teutonica
+4. Lisboa
+5. Pax Renaissance
+6. Gaia Project
+7. Barrage
+9. Le Havre
+11. Ginkgopolis
+10. 1862
+12. Tournay
+13. Pax Pamir
+14. On Mars
+15. Nucleum
+16. Terra Mystica
+8. Inis
+17. Concordia
+22. 1817
+18. Troyes
+19. Great Western Trail
+20. Orleans
+21. Glass Road
+23. Dual Gauge
+24. 18Ireland
+25. Pax Viking
 
+See previous:
 
-See previous [top 25 from 2020](/top25_2020)
+[top 25 from 2024](/top25_2024)
+
+[top 25 from 2022](/top25_2022)
+
+[top 25 from 2020](/top25_2020)
